@@ -1,0 +1,40 @@
+{
+  "name": "Tekslider",
+  "title": "Tekslider  a touch focused slider",
+  "description": "A touch focused slider. With acceleration and easily configurable. Now it is in beta phase and any feedback will be welcome.",
+  "keywords": [
+    "slider",
+    "slideshow",
+	"mobile",
+	"touch",
+	"ui",
+	"comunicatek"	
+  ],
+  "version": "0.4.0",
+  "author": {
+    "name": "Dani Prados ",
+    "url": "http://code.comunicatek.com",
+	"email": "daniprados@gmail.com"
+  },
+  "maintainers": [
+    {
+	"name": "Dani Prados ",
+    "url": "http://code.comunicatek.com",
+	"email": "daniprados@gmail.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/daniprados/tekslider/blob/master/MIT-LICENCE..txt"
+    }
+  ],
+  "bugs": "https://github.com/daniprados/tekslider/issues",
+  "homepage": "http://code.comunicatek.com/en/tekslider_a_touch_focused_slider.html",
+  "demo": "http://code.comunicatek.com/en/tekslider_a_touch_focused_slider.html",
+  "docs": "http://code.comunicatek.com/en/tekslider_a_touch_focused_slider.html",
+  "download": "http://code.comunicatek.com/en/tekslider_a_touch_focused_slider.html",
+  "dependencies": {
+    "jquery": ">=1.3"
+  }
+}

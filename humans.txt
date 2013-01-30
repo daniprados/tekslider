@@ -1,0 +1,11 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  code.comunicatek.com: Dani Prados
+  Site:  code.comunicatek.com
+  Twitter: @dpc_code
+  Location: La Bisbal (Girona)
+
+     
